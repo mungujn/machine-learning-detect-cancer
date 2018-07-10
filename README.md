@@ -37,11 +37,13 @@ I also built a web application (React.js based) to demonstrate a potential appli
 1. A radiologist or sonographer would log into the application
 
 ![Sign in screen for the app](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/login.PNG "Sign in screen for the app")
-![After signing in and before uploading a scan](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/after_sign_in.PNG "After signing in and before uploading a scan")
+
+![After signing in and before uploading a scan](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/after_sign_in.png "After signing in and before uploading a scan")
 
 1. After signing into the application the user uploads a breast ultrasound scan for automated analysis
 
-![After uploading an Ultrasound scan the system performs analysis](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/processing.PNG "After uploading an Ultrasound scan the system performs analysis")
-![After analysis using the CNN model a lesion classification is displayed](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/analysis_complete.PNG "After analysis using the CNN model a lesion classification is displayed")
+![After uploading an Ultrasound scan the system performs analysis](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/processing.png "After uploading an Ultrasound scan the system performs analysis")
+
+![After analysis using the CNN model a lesion classification is displayed](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/analysis_complete.png "After analysis using the CNN model a lesion classification is displayed")
 
 For a more detailed description of the project, take a look at my full dissertation PDF file in this repo
