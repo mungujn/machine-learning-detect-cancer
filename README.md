@@ -37,7 +37,7 @@ I also built a web application (React.js based) to demonstrate a potential appli
 ![Sign in screen for the app](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/images/login.PNG "Sign in screen for the app")
 ![After signing in and before uploading a scan](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/images/after_sign_in.PNG "After signing in and before uploading a scan")
 
-1. After signing into the application the user uploads a breast ultrasound scan for automated analysis
+2. After signing into the application the user uploads a breast ultrasound scan for automated analysis
 
 ![After uploading an Ultrasound scan the system performs analysis](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/images/processing.PNG "After uploading an Ultrasound scan the system performs analysis")
 ![After analysis using the CNN model a lesion classification is displayed](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/images/analysis_complete.PNG "After analysis using the CNN model a lesion classification is displayed")
