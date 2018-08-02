@@ -32,7 +32,7 @@ There are 8 main jupyter notebooks in this project
 
    Using transfer learning for lesion classification
 
-I also built a web application (React.js based) to demonstrate a potential application and deployment scenario for the models that were built during this project.
+I also built a web application (React based) to demonstrate a potential application and deployment scenario for the models that were built during this project.
 
 1. A radiologist or sonographer would log into the application
 
