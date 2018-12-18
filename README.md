@@ -1,4 +1,4 @@
-# Classification of Lesions in Breast Ultrasound Umages Using Neural Networks
+# Classification of Lesions in Breast Ultrasound Images Using Neural Networks
 
 This repo contains source code for my undergraduate dissertation from Makerere University College of Engineering, Design, Art and Technology.
 
