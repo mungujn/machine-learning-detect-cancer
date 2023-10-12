@@ -47,3 +47,7 @@ I also built a web application (React based) to demonstrate a potential applicat
 ![After analysis using the CNN model a lesion classification is displayed](https://github.com/mungujn/machine-learning-detect-cancer/raw/master/images/analysis_complete.png "After analysis using the CNN model a lesion classification is displayed")
 
 For a more detailed description of the project, take a look at my full dissertation PDF file in this repo
+
+## Models
+
+[Google drive link](https://drive.google.com/drive/folders/1oG-mn_NZhgW2_NQmda2YJwdVKOeUm-c-?usp=sharing)
